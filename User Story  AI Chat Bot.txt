@@ -1,0 +1,44 @@
+User Story : AI Chat Bot
+
+
+Description : As a user, I want the chatbot to provide accurate, relevant, and understandable answers so that I can rely on it for correct information and meaningful interactions.
+
+
+Acceptance Criteria:
+
+
+Accuracy of Response
+
+The chatbot should provide factually correct answers based on the given input.
+Responses should not contain misleading or incorrect information.
+
+Relevance to Query
+
+The chatbot response must directly address the user’s question or intent.
+Irrelevant or off-topic information should be avoided.
+
+Clarity and Readability
+
+Responses should be clear, concise, and easy to understand.
+Use simple language appropriate to the user’s query.
+
+Handling Unknown Queries
+
+If the chatbot does not know the answer, it should respond gracefully (e.g., “I’m not sure about that…”).
+It should not generate fabricated or random answers.
+
+Consistency
+
+For similar inputs, the chatbot should provide consistent responses.
+Variations should not change the factual correctness.
+
+Response Time
+
+The chatbot should respond within an acceptable time limit (e.g., ≤ 2 seconds).
+
+Error Handling
+
+The chatbot should handle incomplete or unclear inputs by asking follow-up questions.
+Tone and Politeness
+Responses should be polite, neutral, and user-friendly.
+Avoid offensive or inappropriate language.
